@@ -47,9 +47,9 @@ The learning path includes:
 | Week 01 | Design Patterns & Principles, DSA, PL/SQL Programming, Test Driven Development and Logging framework  | ✅ Completed    | [deepskilling-week1](https://github.com/HackerKing5128/Digital-Nurture-JavaFSE/tree/deepskilling-week1) |
 | Week 02 | Spring Core & Maven, Spring Data JPA with Spring Boot, Hibernate | ✅ Completed | [deepskilling-week2](https://github.com/HackerKing5128/Digital-Nurture-JavaFSE/tree/deepskilling-week2) |
 | Week 03 | Spring REST using Spring Boot 3 | ✅ Completed      | [deepskilling-week3](https://github.com/HackerKing5128/Digital-Nurture-JavaFSE/tree/deepskilling-week3) |
-| Week 04 | Code quality & SonarQube, Microservices with Spring Boot 3 and Spring Cloud | 🔄 In Progress      |                                         [deepskilling-week4]()                                          |
-| Week 05 | Angular/ React | ⏳ Pending      |                                         [deepskilling-week5]()                                          |
-| Week 06 | Angular/ React, GIT, CI/CD | ⏳ Pending      |                                         [deepskilling-week6]()                                          |
+| Week 04 | Microservices with Spring Boot 3 and Spring Cloud | ✅ Completed      | [deepskilling-week4](https://github.com/HackerKing5128/Digital-Nurture-JavaFSE/tree/deepskilling-week4) |
+| Week 05 | Angular/ React | 🔄 In Progress      |                                         [deepskilling-week5]()                                          |
+| Week 06 | GIT, CI/CD | ⏳ Pending      |                                         [deepskilling-week6]()                                          |
 | Week 07 | DevOps, Docker, Cloud and GenAl fundamentals | ⏳ Pending      |                                         [deepskilling-week7]()                                          |
 
 
